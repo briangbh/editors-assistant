@@ -7,7 +7,7 @@ and re-imagine the content editing process too.
 
 [Storybook](https://storybook.js.org) is the modern, open-source standard 
 for building [Design Systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/). Using Storybook as the foundation, we can build an
-interactive, continously updated design system for Big Health. 
+interactive, continuously updated design system for Big Health. 
 
 ## Playroom
 
