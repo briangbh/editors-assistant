@@ -17,3 +17,17 @@ components. The [Playroom Add-On for Storybook](https://storybook.js.org/addons/
 Together, these projects enable a new editing experience for Big Health's
 clinical content. 
 
+## Running
+
+To run the project: 
+
+```sh
+$ npm run designer
+```
+
+Then, open a browser tab to:
+
+```sh
+http://localhost:6006
+```
+
