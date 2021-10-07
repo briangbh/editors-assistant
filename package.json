@@ -16,11 +16,11 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "storybook": "start-storybook -p 6006 -s public",
+    "storybook": "BROWSER=none start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
     "playroom": "playroom start",
     "build-playroom": "playroom build",
-    "design": "run-p storybook playroom"
+    "designer": "run-p storybook playroom"
   },
   "eslintConfig": {
     "extends": [
