@@ -6,4 +6,10 @@ export const parameters = {
       date: /Date$/,
     },
   },
+  layout: 'centered',
+  backgrounds: {
+    default: 'sleepio',
+    values: [{ name: 'sleepio', value: '#18c3e5' }]
+  },
+  playroom: { url: 'http://localhost:9000' }
 }
