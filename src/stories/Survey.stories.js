@@ -27,7 +27,7 @@ BodyType.args = {
   questionName: 'body_type',
   option1: 'Thin',
   option2: 'Thicc',
-  option3: 'Athleisure-ish',
+  option3: 'Athleisurely',
   option4: 'Body Positive',
   label: 'Next Question!',
   kind:  'Pages/Survey',
